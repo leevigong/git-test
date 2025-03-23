@@ -1,4 +1,5 @@
-main branch 입니다.
+feature branch 입니다.
 
 1. main 브랜치에서 커밋 완료
 2. main 브랜치
+1. feature 브랜치에서 커밋 완료
